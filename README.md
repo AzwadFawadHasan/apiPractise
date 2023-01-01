@@ -1,6 +1,11 @@
 # apiPractise
 this repo contains api practise done by me
 
+
+## git hub stats taken from 
+
+https://github.com/anuraghazra/github-readme-stats
+
 ![AzwadFawadHasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzwadFawadHasan&count_private=true)
 ![AzwadFawadHasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzwadFawadHasan&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzwadFawadHasan)](https://github.com/AzwadFawadHasan/github-readme-stats)
