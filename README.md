@@ -1,5 +1,6 @@
 # apiPractise
-this repo contains api practise done by me
+this repo contains api practise done by me (postman api)
+
 
 
 ## git hub stats taken from 
